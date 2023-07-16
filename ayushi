@@ -1,0 +1,31 @@
+Assignment- 1
+
+Ø Step 1- create your account on amazon aws using root or IAM user
+
+Ø Step 2- Then open ec2 services and click on instances and select region (asia pecific Mumbai).
+
+Ø Step 3-Name your instance and click on window O.S and select it.
+
+Ø Step 4- select instances types ( select t3.micro ).
+
+Ø Step 5- now create your key pair name (key pair type should be RSA and and format .pem).
+
+Ø Step 6- after creating your key it will be downloaded automatically.
+
+Ø Step7- allow SSH traffic from my ip address only .
+
+Ø Step 8- now click on launch instance.
+
+Ø After launched your instances go to your instances and select your instance.
+
+Ø and click on connect then click on RDP client and download remote desktop file.
+
+Ø Now click on get password and click on upload private key.
+
+Ø And choose your pem file and upload it.
+
+Ø Then click on decrypt password and copy your password .
+
+Ø Open your remote desktop file and paste your password.
+
+Ø And click on connect .now your virtual window will be opened.
